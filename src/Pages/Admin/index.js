@@ -1,0 +1,1 @@
+export { Home as AdminHome } from "./Home/";
